@@ -2,9 +2,10 @@
 
 <p> 💻 This is my approach of solving the questions of </p>
 <ul type="circle">
-    <li><a style="color:red;" href="https://github.com/08Gunjan/Hackerrank/tree/main/30%20Days%20of%20Code(Hackerrank)"> 30 Days of Code on Hackerrank ✔️</a></li>
-    <li><a href="https://github.com/08Gunjan/Hackerrank/tree/main/java"> Java (Language Proficiency) ✔️</a></li>
-    <li> Problem Solving ✔️</li>
+    <li><a style="color:red;" href="https://github.com/Ashish2030/Hackerrank/tree/main/30%20Days%20of%20Code(Hackerrank)"> 30 Days of Code on Hackerrank ✔️</a></li>
+    <li><a href="https://github.com//Ashish2030/Hackerrank/tree/main/java"> Java (Language Proficiency) ✔️</a></li>
+    <li><a href="https://github.com//Ashish2030/Hackerrank/tree/main/java"> Problem Solving ✔️</a></li>
+      <li><a href="https://github.com//Ashish2030/Hackerrank/tree/main/java"> SQL ✔️</a></li>
   </ul> 
   
   <img src="./images/Hackerrank profile.png" alt="My Hackerrank Profile"><br><br>
