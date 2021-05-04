@@ -1,5 +1,4 @@
-# Hackerrank
-
+ <h1 align="center">𝐇𝐚𝐜𝐤𝐞𝐫𝐫𝐚𝐧𝐤</h1>
 <p> 💻 This is my approach of solving the questions of </p>
 <ul type="circle">
     <li><a style="color:red;" href="https://github.com/Ashish2030/Hackerrank/tree/main/30%20Days%20of%20Code(Hackerrank)"> 30 Days of Code on Hackerrank ✔️</a></li>
