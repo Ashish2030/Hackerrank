@@ -1,4 +1,10 @@
- <h1 align="center">𝐇𝐚𝐜𝐤𝐞𝐫-𝐫𝐚𝐧𝐤</h1>
+<p align="center">
+    <a href="https://www.hackerrank.com/nathanabela7">
+        <img alt="HackerRank Logo | Nathan Abela Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+    </a>
+</p>
+
+# HackerRank | Practice, Tutorials & Interview Preparation Solutions
 <p> 💻 This is my approach of solving the questions of </p>
 <ul type="circle">
     <li><a style="color:red;" href="https://github.com/Ashish2030/Hackerrank/tree/main/30%20Days%20of%20Code(Hackerrank)"> 30 Days of Code on Hackerrank ✔️</a></li>
