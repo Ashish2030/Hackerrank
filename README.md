@@ -64,7 +64,8 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
       <li><a href="https://github.com/Ashish2030/Hackerrank/tree/main/SQL(Hackerrank)"> SQL ✔️</a></li>
   </ul> 
   
-  <img src="https://github.com/Ashish2030/Hackerrank/blob/main/images/Hackerrank%20profile%20.png" alt="My Hackerrank Profile"><br><br>
+  ![Screenshot (132)](https://user-images.githubusercontent.com/61516051/117484627-fa035b80-af84-11eb-8ce0-280334489398.png)
+
   <strong> Hackerrank </strong> <img src="./images/hackerrank_icon.png" width="25" height="23"> : <a href="https://www.hackerrank.com/ashishkumar_cse2">https://www.hackerrank.com/ashishkumar_cse2</a><br>
  
  <strong> Linkedin in </strong> <img src="./images/linkedin_icon.png" width="23" height="19"> : <a href="https://www.linkedin.com/in/ashish-kumar-2030/">www.linkedin.com/in/ashish-kumar-2030 </a><br>
